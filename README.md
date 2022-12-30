@@ -1,3 +1,5 @@
-# expenseTracker
+# Axios Crash Course
 
-Using HTML,CSS and JavaScript, a web page is built which takes money spent on different items and display on page. At same time user can edit or delete the expenses
+> These are the files for the YouTube Axios crash course.
+
+"start.js" is just the event listeners and empty functions. "main.js" is the completed code
